@@ -1,4 +1,4 @@
-# Laventella
+# Laven-tella
 Font for music notation.
 Version 1.500
 
