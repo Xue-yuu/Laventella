@@ -9,4 +9,4 @@ Mount the image file. Place the json file in the correct directory, then install
 This font is primarily intended for use with the music notation software.
 
 ## License
-Laventella is offered on the SIL Open Font Licence.
+This font is offered on the SIL Open Font Licence.
