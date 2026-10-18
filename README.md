@@ -6,7 +6,7 @@ Version 1.500
 Mount the image file. Place the json file in the correct directory then install otf file as any other font files.
 
 ## Usage
-This font is primarily intended for use with the music notation software.
+This font is primarily intended for use with the notation software.
 
 ## License
 This font is offered on the SIL Open Font Licence.
